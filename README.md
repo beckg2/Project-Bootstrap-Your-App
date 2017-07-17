@@ -1,11 +1,12 @@
-# Project-Bootstrap-Your-App
+# wats4000-project-bootstrap-your-app
 
-Basic Requirements
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.16.0.
 
-Create a new Git repository for your web application project.
+## Build & development
 
-Bootstrap a new project skeleton in that repository.
+Run `grunt` for building and `grunt serve` for preview.
 
-Set up deployment scripts to publish your web application.
+## Testing
 
-Make your web application spit out the default hello world message.
+Running `grunt test` will run the unit tests with karma.
